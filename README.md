@@ -1,8 +1,8 @@
-# RoboAi — Voice-Powered AI Assistant
+# TerminalJarvis — Voice-Powered AI Assistant
 
 **Turning understanding into action, in your own language.**
 
-RoboAi is a Python-based AI assistant designed to make AI more accessible through text responses, spoken answers, multilingual interaction, and browser-based task automation.
+TerminalJarvis is a Python-based AI assistant designed to make AI more accessible through text responses, spoken answers, multilingual interaction, and browser-based task automation.
 
 ## ✨ Features
 
